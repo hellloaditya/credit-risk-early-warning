@@ -199,6 +199,7 @@ Potential improvements include:
 
 ## Author
 
-**Vedant Dubey**
+**Aditya Srivastava**
+
 
 This project was developed as a machine learning portfolio project focused on credit risk modeling, model evaluation, and explainable artificial intelligence.
